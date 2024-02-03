@@ -18,4 +18,5 @@ PRODUCT_PACKAGES += \
     CarrierSettingsConfigOverlay \
     CarrierSettingsOverlay \
     CarrierSettingsProviderOverlay \
-    CarrierSettingsSystemUIOverlay
+    CarrierSettingsSystemUIOverlay \
+    ClearCallingSettingsOverlay2022
